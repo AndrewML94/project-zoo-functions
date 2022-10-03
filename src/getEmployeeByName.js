@@ -8,6 +8,4 @@ function getEmployeeByName(employeeName) {
   return people;
 }
 
-console.log(getEmployeeByName('Bethea'));
-
 module.exports = getEmployeeByName;
